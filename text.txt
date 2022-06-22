@@ -1,3 +1,11 @@
 class Animals
    attr_accessor :name, :age, :type
+   
+   def initialize
+   @name = name
+   @age = age
+   @type = type
+   end
+   
+   
 end
