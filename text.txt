@@ -1,7 +1,7 @@
 class Animals
    attr_accessor :name, :age, :type
 
-	def initialize
+	def initialize(name, age, type)
 		@name = name
 		@age = age
 		@type = type
@@ -10,4 +10,6 @@ class Animals
 	def name
 		puts "Hello, #{@name}!".
 	end
+
+	
 end
