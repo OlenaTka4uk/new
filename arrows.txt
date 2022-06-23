@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 class Cat
 
 and
+=======
+class Dogs
+
+end
+>>>>>>> feature
