@@ -2,6 +2,6 @@ class Animals
    attr_accessor :name, :age, :type
 
 	def name
-		puts "Hello, #{@name}".
+		puts "Hello, #{@name}!".
 	end
 end
